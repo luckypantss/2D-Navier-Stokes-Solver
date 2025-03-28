@@ -63,4 +63,6 @@ This project is based on my Bachelor's Thesis:
 ---
 
 ## 📁 Project Structure
+src/ ├── main.m # Entry point ├── NSsolverTest2.m # Core solver logic ├── SpatialDisc.m # Grid generation ├── BayesianParameterSweep.m # Parameter tuning
 
+results/ ├── U_field.png # Velocity field ├── pressure_plot.png # Pressure contour ├── point_comp.png # Benchmark pointwise comparison ├── trend_comp.png # Ghia benchmark trend comparison
