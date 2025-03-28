@@ -18,11 +18,18 @@ It includes turbulence modeling via the Smagorinsky LES model, pressure smoothin
 
 ## 📊 Results
 
-> Add your images here after upload!
+### 🔹 Velocity Field
+<img src="results/U_field.png" width="400">
 
-- ✅ Pressure contours over time
-- ✅ 2D velocity field visualization
-- ✅ Reynolds number evolution
+### 🔹 Pressure Plot
+<img src="results/pressure_plot.png" width="400">
+
+### 🔹 Comparison to Benchmark (Pointwise)
+<img src="results/point_comp.png" width="400">
+
+### 🔹 Trend Comparison
+<img src="results/trend_comp.png" width="400">
+
 
 ---
 
