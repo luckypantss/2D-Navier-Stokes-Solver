@@ -33,19 +33,23 @@ It includes turbulence modeling via the Smagorinsky LES model, pressure smoothin
 
 ---
 
-## 🧠 Why it Matters
+## 🧠 Why It Matters
 
-While not a machine learning project directly, this simulation demonstrates:
-- Numerical modeling skills relevant to scientific ML
-- Data generation pipelines for surrogate modeling or PINNs
-- Optimization workflows applicable to hyperparameter tuning in ML
+- Fluid simulations like this are used everywhere — from weather modeling, aerodynamics, and climate science, to visual effects and video games.
+
+- Most people use black-box tools or libraries to run simulations. This project is about understanding how it all works underneath — actually building the solver from the ground up: the math, the code, the tuning, the validation.
+
+- That matters because if you can build a system like this from scratch, you can understand, debug, and adapt complex systems in any technical field — whether it’s engineering, simulation, machine learning, or real-time graphics.
+
+- Morover, adapting the solver to GLSL for browser-based simulation means the whole thing can run interactively on the web — no installations, no downloads, just physics running live in your browser. That opens doors to education, accessibility, and performance beyond traditional tools.
+
 
 ---
 
 ## 📘 Related Thesis
 
 This project is based on my Bachelor's Thesis:  
-📄 **“Enabling Interactive Fluid Simulations”** — [Download it here](YOUR_LINK_HERE)  
+📄 **“Enabling Interactive Fluid Simulations”** — Download it here (https://ltu.diva-portal.org/smash/get/diva2:1884106/FULLTEXT01.pdf)  
 > (256+ downloads)
 
 ---
